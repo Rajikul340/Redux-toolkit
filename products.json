@@ -1,0 +1,244 @@
+[
+
+  {
+    "model": "Xiaomi Redmi Note 11 ",
+    "image": "https://www.mobiledokan.com/wp-content/uploads/2022/03/Xiaomi-Redmi-Note-11.jpg",
+    "status": true,
+    "keyFeature": [
+      "AMD Ryzen 7 5800X3D Processor",
+      "ASROCK B550 STEEL LEGEND AMD B550 Chipset Motherboard",
+      "32GB DDR4 RAM + 500GB PCIe 3.0 NVMe SSD",
+      "Colorful GeForce RTX 4090 NB EX-V 24GB GDDR6X Graphics Card"
+    ],
+    "price": 18490,
+    "rating": 3,
+    "spec": [
+      {
+        "feature": "PDAF, LED flash, f/1.8, 1/2.76″, 0.64µm, ultrawide, macro, depth & mor"
+      },
+      {
+        "Chipset": "vQualcomm Snapdragon 680 4G (6 nm)"
+      },
+      {
+        "Processor": "Octa core, up to 2.4 GHz"
+      },
+      {
+        "ROM": "64 / 128 GB (UFS 2.2)"
+      },
+      {
+        "Sensors": "Fingerprint, Accelerometer, Gyroscope, Proximity, E-Compass"
+      }
+    ]
+  },
+  {
+    "model": "Realme Narzo 50A Prime ",
+    "image": "https://www.mobiledokan.com/wp-content/uploads/2022/06/Realme-Narzo-50A-Prime.jpg",
+    "status": true,
+    "keyFeature": [
+      "AMD Ryzen 7 5800X3D Processor",
+      "ASROCK B550 STEEL LEGEND AMD B550 Chipset Motherboard",
+      "32GB DDR4 RAM + 500GB PCIe 3.0 NVMe SSD",
+      "Colorful GeForce RTX 4090 NB EX-V 24GB GDDR6X Graphics Card"
+    ],
+    "price": 15490,
+    "rating": 3,
+    "spec": [
+      {
+        "feature": "PDAF, LED flash, f/1.8, 1/2.76″, 0.64µm, macro, depth & more"
+      },
+      {
+        "Chipset": "vQualcomm Snapdragon 680 4G (6 nm)"
+      },
+      {
+        "Processor": "Octa core, 1.8 GHz"
+      },
+      {
+        "ROM": "64 / 128 GB (UFS 2.2)"
+      },
+      {
+        "Sensors": "Fingerprint, Accelerometer, Gyroscope, Proximity, E-Compass"
+      }
+    ]
+  },
+  {
+    "model": "Vivo Y02a  ",
+    "image": "https://www.mobiledokan.com/wp-content/uploads/2023/02/Vivo-Y02a.jpg",
+    "status": true,
+    "keyFeature": [
+      "AMD Ryzen 7 5800X3D Processor",
+      "ASROCK B550 STEEL LEGEND AMD B550 Chipset Motherboard",
+      "32GB DDR4 RAM + 500GB PCIe 3.0 NVMe SSD",
+      "Colorful GeForce RTX 4090 NB EX-V 24GB GDDR6X Graphics Card"
+    ],
+    "price": 11590,
+    "rating": 3,
+    "spec": [
+      {
+        "feature": "PDAF, LED flash, f/1.8, 1/2.76″, 0.64µm, ultrawide, macro, depth & mor"
+      },
+      {
+        "Chipset": "vQualcomm Snapdragon 680 4G (6 nm)"
+      },
+      {
+        "Processor": "Octa core, up to 2.4 GHz"
+      },
+      {
+        "ROM": "64 / 128 GB (UFS 2.2)"
+      },
+      {
+        "Sensors": "Fingerprint, Accelerometer, Gyroscope, Proximity, E-Compass"
+      }
+    ]
+  },
+  {
+    "model": "Realme C33 2023 ",
+    "image": "https://www.smartphonesbd.com/images/phones/realme-c33-2023.jpg",
+    "status": true,
+    "keyFeature": [
+      "AMD Ryzen 7 5800X3D Processor",
+      "ASROCK B550 STEEL LEGEND AMD B550 Chipset Motherboard",
+      "32GB DDR4 RAM + 500GB PCIe 3.0 NVMe SSD",
+      "Colorful GeForce RTX 4090 NB EX-V 24GB GDDR6X Graphics Card"
+    ],
+    "price": 14500,
+    "rating": 3,
+    "spec": [
+      {
+        "feature": "PDAF, LED flash, f/1.8, 1/2.76″, 0.64µm, ultrawide, macro, depth & mor"
+      },
+      {
+        "Chipset": "vQualcomm Snapdragon 680 4G (6 nm)"
+      },
+      {
+        "Processor": "Octa core, up to 2.4 GHz"
+      },
+      {
+        "ROM": "64 / 128 GB (UFS 2.2)"
+      },
+      {
+        "Sensors": "Fingerprint, Accelerometer, Gyroscope, Proximity, E-Compass"
+      }
+    ]
+  },
+  {
+    "model": "Symphony i96 ",
+    "image": "https://www.smartphonesbd.com/images/phones/symphony-i96.jpg",
+    "status": true,
+    "keyFeature": [
+      "AMD Ryzen 7 5800X3D Processor",
+      "ASROCK B550 STEEL LEGEND AMD B550 Chipset Motherboard",
+      "32GB DDR4 RAM + 500GB PCIe 3.0 NVMe SSD",
+      "Colorful GeForce RTX 4090 NB EX-V 24GB GDDR6X Graphics Card"
+    ],
+    "price": 7990,
+    "rating": 3,
+    "spec": [
+      {
+        "feature": "PDAF, LED flash, f/1.8, 1/2.76″, 0.64µm, ultrawide, macro, depth & mor"
+      },
+      {
+        "Chipset": "vQualcomm Snapdragon 680 4G (6 nm)"
+      },
+      {
+        "Processor": "Octa core, up to 2.4 GHz"
+      },
+      {
+        "ROM": "64 / 128 GB (UFS 2.2)"
+      },
+      {
+        "Sensors": "Fingerprint, Accelerometer, Gyroscope, Proximity, E-Compass"
+      }
+    ]
+  },
+  {
+    "model": "Google Pixel 7a",
+    "image": "https://www.smartphonesbd.com/images/phones/google-pixel-7a.jpg",
+    "status": true,
+    "keyFeature": [
+      "AMD Ryzen 7 5800X3D Processor",
+      "ASROCK B550 STEEL LEGEND AMD B550 Chipset Motherboard",
+      "32GB DDR4 RAM + 500GB PCIe 3.0 NVMe SSD",
+      "Colorful GeForce RTX 4090 NB EX-V 24GB GDDR6X Graphics Card"
+    ],
+    "price": 12990,
+    "rating": 3,
+    "spec": [
+      {
+        "feature": "PDAF, LED flash, f/1.8, 1/2.76″, 0.64µm, ultrawide, macro, depth & mor"
+      },
+      {
+        "Chipset": "vQualcomm Snapdragon 680 4G (6 nm)"
+      },
+      {
+        "Processor": "Octa core, up to 2.4 GHz"
+      },
+      {
+        "ROM": "64 / 128 GB (UFS 2.2)"
+      },
+      {
+        "Sensors": "Fingerprint, Accelerometer, Gyroscope, Proximity, E-Compass"
+      }
+    ]
+  },
+  {
+    "model": "OnePlus 8T",
+    "image": "https://i.gadgets360cdn.com/products/large/oneplus-8t-373x800-1602689217.jpg?downsize=*:420&output-quality=80",
+    "status": true,
+    "keyFeature": [
+      "AMD Ryzen 7 5800X3D Processor",
+      "ASROCK B550 STEEL LEGEND AMD B550 Chipset Motherboard",
+      "32GB DDR4 RAM + 500GB PCIe 3.0 NVMe SSD",
+      "Colorful GeForce RTX 4090 NB EX-V 24GB GDDR6X Graphics Card"
+    ],
+    "price": 33490,
+    "rating": 3,
+    "spec": [
+      {
+        "feature": "PDAF, LED flash, f/1.8, 1/2.76″, 0.64µm, ultrawide, macro, depth & mor"
+      },
+      {
+        "Chipset": "vQualcomm Snapdragon 680 4G (6 nm)"
+      },
+      {
+        "Processor": "Octa core, up to 2.4 GHz"
+      },
+      {
+        "ROM": "64 / 128 GB (UFS 2.2)"
+      },
+      {
+        "Sensors": "Fingerprint, Accelerometer, Gyroscope, Proximity, E-Compass"
+      }
+    ]
+  }, 
+  {
+    "model": "Oppo A74 5G",
+    "image": "https://i.gadgets360cdn.com/products/large/Oppo-A74-5G-DB-379x800-1617605342.jpg?downsize=*:180",
+    "status": true,
+    "keyFeature": [
+      "AMD Ryzen 7 5800X3D Processor",
+      "ASROCK B550 STEEL LEGEND AMD B550 Chipset Motherboard",
+      "32GB DDR4 RAM + 500GB PCIe 3.0 NVMe SSD",
+      "Colorful GeForce RTX 4090 NB EX-V 24GB GDDR6X Graphics Card"
+    ],
+    "price": 15490,
+    "rating": 3,
+    "spec": [
+      {
+        "feature": "PDAF, LED flash, f/1.8, 1/2.76″, 0.64µm, ultrawide, macro, depth & mor"
+      },
+      {
+        "feature": "vQualcomm Snapdragon 680 4G (6 nm)"
+      },
+      {
+        "Processor": "Octa core, up to 2.4 GHz"
+      },
+      {
+        "ROM": "64 / 128 GB (UFS 2.2)"
+      },
+      {
+        "Sensors": "Fingerprint, Accelerometer, Gyroscope, Proximity, E-Compass"
+      }
+    ]
+  }
+  
+]
