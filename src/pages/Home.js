@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import ProductCard from "../components/ProductCard";
 import { toggle, toggleBrand } from "../feature/filter/filterSlice";
@@ -9,9 +9,10 @@ const Home = () => {
   const dispatch = useDispatch();
   const { filter  } = useSelector((state) => state);
   const { products } = useSelector((state) => state.products);
+  const {data} = products 
   const { brand, stock, keyword } = filter;
    
-  console.log(products);
+  // console.log(data);
 
   useEffect(() => {
       dispatch(getProducts())
@@ -20,20 +21,20 @@ const Home = () => {
 
 
   let content;
-  if (products) {
-    content = products?.map((product) => (
+  if (data) {
+    content = data?.map((product) => (
       <ProductCard key={product.model} product={product} />
     ));
   }
 
   // if (keyword) {
-  //   content = products
+  //   content = data
   //     ?.filter((p) => p.model.toLowerCase().includes(keyword.toLowerCase()))
   //     .map((product) => <ProductCard key={product.model} product={product} />);
   // }
 
-  if (products && (stock || brand)) {
-    content = products.filter(p=>{
+  if (data && (stock || brand)) {
+    content = data.filter(p=>{
       if(stock){
       return p.status ===true
       }
