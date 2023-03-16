@@ -1,9 +1,14 @@
 import React from "react";
 import { BiListPlus } from "react-icons/bi";
+import { useDispatch } from "react-redux";
+import { useLocation } from "react-router-dom";
+import { addToCart, removeFromCart } from "../feature/cart/cartSlice";
 
 const ProductCard = ({ product }) => {
-    console.log(product.spec);
-
+  
+           const dispatch  =useDispatch();
+           const {pathname} = useLocation();
+       
 
   return (
     <div
@@ -16,18 +21,26 @@ const ProductCard = ({ product }) => {
       <h1 className='font-bold text-center'>{product.model}</h1>
       <p className='text-center font-semibold mb-3'>Rating: {product.rating}</p>
       <div className=' flex-1'>
-        {/* <ul className='space-y-2'>
+        <ul className='space-y-2'>
           {product.keyFeature.map((feature) => {
             return <li className='text-sm '>{feature}</li>;
           })}
-        </ul> */}
-        <p className="text-indigo-500">Price: {product.price}</p>
-      
+        </ul>
+       
+       { pathname.includes("/cart") && <p>quantity :{product.quantity}</p>}
       </div>
       <div className='flex gap-2 mt-5'>
-        <button className='bg-indigo-500 rounded-full py-1 px-2 flex-1 text-white text-bold'>
+     { !pathname.includes("/cart") &&  <button 
+        onClick={()=>dispatch(addToCart(product))}
+        className='bg-indigo-500 rounded-full py-1 px-2 flex-1 text-white text-bold'>
           Add to cart
-        </button>
+        </button>}
+
+      { pathname.includes("/cart") && <button 
+        onClick={()=>dispatch(removeFromCart(product))}
+        className='bg-indigo-500 rounded-full py-1 px-2 flex-1 text-white text-bold'>
+          Remove 
+        </button>}
         <button
           title='Add to wishlist'
           className='bg-indigo-500  py-1 px-2 rounded-full'
