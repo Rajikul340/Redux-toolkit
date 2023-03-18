@@ -10,7 +10,7 @@ const AddProduct = () => {
   const dispatch = useDispatch();
     const products = useSelector(state=>state.products);
      const {isLoading, isError, error, postSuccess} = products
-    console.log(products);
+    // console.log(products);
 
     useEffect(()=>{
         if(isLoading){
